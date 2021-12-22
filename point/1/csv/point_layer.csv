@@ -1,0 +1,6 @@
+X,Y,id,ID_1,Name,Ownership,Program ID,Year of Es,FacilityRe,Medicine,Avil Facil,Feedback,Additional,Lat,Long,State/ UT,District,Village,Pin Code,Address,Contact,Website,Days of Op,Photo,icon_url
+0,0,,,,,,,,,,,,,,,,,,,,,,,./0.png
+73.8088533493205,18.5554828946835,"1001",1001.000000,S K Hospital,Pvt,"200","2015",ECG,Allopathy,Imaging Center,Yes,ATM,18.55,73.80,Maharashtra,Pune,Pune,"411007",Aundh,"999999999",www.xyy.com,NA,D:\General\Health_GIS_Project\Photo\1001.bmp,./0.png
+73.8022722808659,18.5647487250602,"1002",1002.000000,Vitalife Medipoint H,Pvt,"300","2000",Hospital,Allopathy,X-RAY,Yes,Bank,18.56,73.80,Maharashtra,Pune,Pune,"411007",Aundh,"888888888",https://sanjivanivitalife.in/,24 hours,D:\General\Health_GIS_Project\Photo\1002.jpg,./0.png
+73.8381726088823,18.5526072950264,"1003",,Military Hospital,Govt,"400","1970",MRI,Allopathy,Bed,Yes,Kirkee,18.55,73.83,Maharashtra,Pune,Pune,"411020",Kirkee,"88888888",www.afmc.nic.in,24 hours,D:\General\Health_GIS_Project\Photo\1003.png,./0.png
+73.8327959012236,18.5018504903016,"1004",,Deenanath Mangeshkar,,,,,,,,,,,,,,,,,,,D:\General\Health_GIS_Project\Photo\1004.jpg,./0.png
